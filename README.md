@@ -1,7 +1,5 @@
 # Banking Application
 
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-
 This is a banking application that provides various features for managing bank accounts, transactions, and loans. It allows users to open accounts, make transactions, transfer money, and obtain account details and passbooks. The system incorporates authentication to ensure secure access to user accounts.
 
 ## Table of Contents
