@@ -10,8 +10,6 @@ This is a banking application that provides various features for managing bank a
 - [Account Details](#account-details)
 - [Passbook](#passbook)
 - [Account Details and Properties](#account-details-and-properties)
-- [License](#license)
-- [Contact](#contact)
 
 ## Authentication
 
